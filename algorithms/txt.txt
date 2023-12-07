@@ -1,0 +1,3 @@
+- The worst case complexity of an algorithm is represented by the Big O notation
+
+- 
